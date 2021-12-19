@@ -1,6 +1,4 @@
 # chromemedia
-
-# e-assessment
 Take home exam
 
 # Setup
